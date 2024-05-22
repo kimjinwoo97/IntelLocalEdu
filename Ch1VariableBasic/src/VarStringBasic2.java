@@ -1,4 +1,4 @@
-
+import java.util.Scanner;
 // 소곱
 public class VarStringBasic2 {
 
